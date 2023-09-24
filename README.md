@@ -2,11 +2,11 @@
 
 **NO LONGER IN DEVELOPMENT**  
 
-watched-series-tracker is a command line interface program written in Java which allows you to track the series you've watched and the dates you watched them.  
+watched-series-tracker is a command line interface program written in Java that allows you to track the series you've watched and the dates that you watched them.  
 
 
 ## Features
-* Remembers all the dates you started and finished watching a series for any number of series, whereas the built-in history in streaming services usually only saves the most recent time you watched something
+* Remembers all the dates of when you started and finished watching a series for any number of series, whereas the built-in history in streaming services usually only saves the most recent time that you watched something
 * Quickly create/start/update an entry in the watchlog by using the option of automatically using the current date
 * View a table showing the full history of when and what you have watched
 * View a table showing all the unique series you have watched
@@ -16,7 +16,7 @@ watched-series-tracker is a command line interface program written in Java which
 ## Building
 
 ### Build Environment Requirements
-This project uses the Gradle Build Tool. A JDK (Java Development Kit) is required to build / run from gradle.
+This project uses the Gradle Build Tool. A JDK (Java Development Kit) is required to build/run from gradle.
 
 ### How To Build
 Use the provided Gradle wrapper "gradlew" to build and test this project.
@@ -57,7 +57,7 @@ To run generated fat JAR file (Unix/macOS):
 
 Replace './gradlew' with 'gradlew' in the commands above for Windows systems.
 
-The program has a simple CLI interface with menu options being chosen by numerical indexes.  
+The program has a simple CLI interface with menu options selectable by numerical indexes.  
 
 The starting interface looks like this:  
 
@@ -80,4 +80,4 @@ This project is no longer in development. It is in a working state, but not all 
 ## Disclaimer
 Refer to wiki for more about the database design and implementation details.  
 
-*mainly a project for learning/practising, no intention for it to be majorly used  
+*mainly a project for learning/practising, with no intention for it to be used  
